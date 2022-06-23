@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'amble-bold';
+    src: url('./fonts/amble/Amble-Bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'amble-bold-italic';
+    src: url('./fonts/amble/Amble-BoldItalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'amble-italic';
+    src: url('./fonts/amble/Amble-Italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'amble-light';
+    src: url('./fonts/amble/Amble-Light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'amble-light-condensed';
+    src: url('./fonts/amble/Amble-LightCondensed-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'amble-light-italic';
+    src: url('./fonts/amble/Amble-LightItalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'amble';
+    src: url('./fonts/amble/Amble-Regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
